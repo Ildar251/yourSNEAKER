@@ -244,6 +244,7 @@ header {
         position: relative;
         width: 100%;
         flex-wrap: wrap;
+        max-height: 815px;
 
         @media (max-width: 987px) {
             flex-direction: column;
